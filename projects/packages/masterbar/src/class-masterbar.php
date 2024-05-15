@@ -1,6 +1,6 @@
 <?php
 /**
- * Package description here
+ * Package description here test
  *
  * @package automattic/jetpack-masterbar
  */
