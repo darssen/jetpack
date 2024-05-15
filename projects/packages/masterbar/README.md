@@ -20,5 +20,5 @@ Need to report a security vulnerability? Go to [https://automattic.com/security/
 
 ## License
 
-masterbar is licensed under [GNU General Public License v2 (or later)](./LICENSE.txt)
+masterbar is licensed under [GNU General Public License v2 (or later)](./LICENSE.txt) Random change
 
